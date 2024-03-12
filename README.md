@@ -28,6 +28,12 @@ My name is **Maksim R.**; I'm a Full-Stack Developer and student at **[ITPG-Varn
 
 <h3>Frontend</h3>
 <p>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" class="icon" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" class="icon" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   </a>
@@ -44,9 +50,6 @@ My name is **Maksim R.**; I'm a Full-Stack Developer and student at **[ITPG-Varn
 
 <h3>Backend</h3>
 <p>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,)
-](https://github.com/Maximus019BG/Maximus019BG/) 
-
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
   </a>
