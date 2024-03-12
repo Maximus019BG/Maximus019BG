@@ -1,6 +1,6 @@
 # **Hi 👋, I am Maximus**
 
-My name is **Maksim R.**; I'm a Full-Stack Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**.
+My name is **Maksim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**, currently studying to become an AI developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximus019bg" alt="maximus019bg" /></a> </p>
