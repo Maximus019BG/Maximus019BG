@@ -19,7 +19,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 
 - 🤝 I’m looking to begin with my project: **WorkCO**
 
-- ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS, JavaScript (React) Back-end: Python (Django, Flask, PHP), Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB) and ***LOVE BASKETBALL***🏀**
+- ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS, JavaScript (React) Back-end: Python (Django, Flask, PHP), Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB) and ***I LOVE BASKETBALL***🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
