@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking to begin with my project: **WorkCO**
 
-- ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS, JavaScript (React) Back-end: Python (Django, Flask, PHP), Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB)**
+- ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS, JavaScript (React) Back-end: Python (Django, Flask, PHP), Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB) and LOVE BASKETBALL 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +44,12 @@
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
@@ -72,15 +78,6 @@
   </a>
 </p>
 
-<h3>Programming Languages</h3>
-<p>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
-  </a>
-</p>
 
 <h3>Version Control</h3>
 <p>
