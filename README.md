@@ -90,4 +90,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximus019bg&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="maximus019bg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=dark" alt="maximus019bg" /></p>
+<center>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=dark" alt="maximus019bg" /></p>
+<center/>
