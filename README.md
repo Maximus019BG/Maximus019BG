@@ -3,6 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximus019bg" alt="maximus019bg" /></a> </p>
 
+###
+
+<img src="https://raw.githubusercontent.com/Maximus019BG/Maximus019BG/output/snake.svg" alt="Snake animation" />
+
+###
+
 - 🔭 I’m currently working on [Eventium](https://github.com/Maximus019BG/Eventium_MongoDB.git)
 
 - 🌱 I’m currently learning **Java, C++, React Native**
