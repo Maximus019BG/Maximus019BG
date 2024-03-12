@@ -1,7 +1,7 @@
-# **Hi 👋, I am Maximus**
+# **Hi 👋, I am Max**
 
-My name is **Maksim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**, currently studying to become an AI developer.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" /> </p>
+My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**, currently studying to become an AI developer.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximus019bg" alt="maximus019bg" /></a> </p>
 
@@ -103,4 +103,5 @@ My name is **Maksim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna
 
 <center>
   <p><img align="center" style="margin-left:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=dark" alt="maximus019bg" /></p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" /> </p>
 <center/>
