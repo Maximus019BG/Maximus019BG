@@ -11,13 +11,13 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 
 ###
 
-- 🔭 I’m currently working on [Eventium](https://github.com/Maximus019BG/Eventium_MongoDB.git)
+- 🔭 I’m currently working on [ITPGLightsV2](https://github.com/Maximus019BG/ITPGLightsV2)
 
-- 🌱 I’m currently learning **Java, C++, React Native**
+- 🌱 I’m currently learning **Java, C++, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG](https://github.com/Maximus019BG)
 
-- 🤝 I’m looking to begin with my project: **WorkCO**
+- 🤝 I’m looking to begin with my project: **ProjectEnterprise**
 
 - ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS, JavaScript (React) Back-end: Python (Django, Flask, PHP), Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB) and ***I LOVE BASKETBALL***🏀**
 
