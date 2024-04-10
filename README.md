@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [ITPGLightsV2](https://github.com/Maximus019BG/ITPGLightsV2)
 
-- 🌱 I’m currently learning **Java, C++, React**
+- 🌱 I’m currently learning **Java, C++, CMake**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG](https://github.com/Maximus019BG)
 
