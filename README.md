@@ -32,7 +32,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 
 <h3>Frontend</h3>
 <p>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs)](https://skillicons.dev)
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/>
   </a>
