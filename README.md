@@ -26,7 +26,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 ## Connect with me  
 <div align="left">
 <a href="https://dev.to/maximus019bg" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto style="margin-bottom: 5px; " width="30" height="10"/>
+<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto style="margin-bottom: 5px; " width="90" height="30"/>
 </a>
 </div>  
 
