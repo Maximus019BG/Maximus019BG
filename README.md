@@ -33,8 +33,8 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 </a>
 </div>  
 
-<h3>Frontend</h3>
-<p>
+<h2 align="center">Frontend</h3>
+<p align="center">
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/>
@@ -59,8 +59,8 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
   </a>
 </p>
 
-<h3>Backend</h3>
-<p>
+<h2 align="center">Backend</h3>
+<p align="center">
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="60"/>
@@ -91,8 +91,8 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
   </a>
 </p>
 
-<h3>Database</h3>
-<p>
+<h2 align="center">Database</h3>
+<p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="60" height="60"/>
   </a>
@@ -102,7 +102,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 </p>
 
 
-<h3>Version Control</h3>
+<h2 align="center">Version Control</h3>
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
