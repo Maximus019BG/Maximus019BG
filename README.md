@@ -109,9 +109,8 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
   </a>
 </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus019bg&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=true" alt="maximus019bg" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximus019bg&show_icons=true&theme=gotham&hide_border=true&cache_seconds=1800&locale=en" alt="maximus019bg" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus019bg&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=true" alt="maximus019bg" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximus019bg&show_icons=true&theme=gotham&hide_border=true&cache_seconds=1800&locale=en" alt="maximus019bg" </p>
+
 
 
   <p align="center"><img align="center" style="margin-left:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=gotham&hide_border=true" alt="maximus019bg" /></p>
