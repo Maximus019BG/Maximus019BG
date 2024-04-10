@@ -58,6 +58,9 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 
 <h3>Backend</h3>
 <p>
+  <a href="https://cmake.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cmake" alt="java" width="60" height="60"/>
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="60"/>
   </a>
