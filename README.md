@@ -24,9 +24,9 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 - ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS, JavaScript (React) Back-end: Python (Django, Flask, PHP), Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB) and ***I LOVE BASKETBALL***🏀**
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://dev.to/maximus019bg" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto style="margin-bottom: 5px; "/>
 </a>
 </div>  
 
