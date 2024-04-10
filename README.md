@@ -68,7 +68,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="60"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
@@ -80,7 +80,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="60" height="60"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=springboot" alt="spring" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="60" height="60"/>
   </a>
 </p>
 
