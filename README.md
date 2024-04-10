@@ -115,5 +115,5 @@
   <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus019bg&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=false" alt="maximus019bg" /> <a href="https://github.com/Maximus019BG?tab=repositories "><img src="https://api.githubtrends.io/user/svg/Maximus019BG/repos?time_range=one_year&include_private=True&theme=gotham"></a> </p>
 
 
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" /> </p>
 
