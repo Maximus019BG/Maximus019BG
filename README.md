@@ -74,13 +74,13 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=php" alt="php" width="60" height="60"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="60" height="60"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=springboot" alt="spring" width="60" height="60"/>
   </a>
 </p>
 
