@@ -59,7 +59,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
 <h3>Backend</h3>
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="60"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
@@ -71,7 +71,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="60"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="python" width="60" height="60"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=php" alt="php" width="60" height="60"/>
