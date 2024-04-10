@@ -90,7 +90,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="60" height="60"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="60"/>
   </a>
 </p>
 
