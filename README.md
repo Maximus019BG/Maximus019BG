@@ -46,7 +46,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/>
   </a>
    <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="60" height="60" />
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="60" height="60"/>
