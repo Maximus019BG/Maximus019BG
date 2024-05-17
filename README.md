@@ -16,13 +16,13 @@
 
 ###
 
-- 🔭 I’m currently working on [ITPGLightsV2](https://github.com/Maximus019BG/ITPGLightsV2)
+- 🔭 I’m currently working on Azion
 
-- 🌱 I’m currently learning **Java, C++, CMake**
+- 🌱 I’m currently learning **CMake**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG](https://github.com/Maximus019BG)
 
-- 🤝 I’m looking to begin with my project: **ProjectEnterprise**
+[//]: <> (- 🤝 I’m looking to begin with my project: **ProjectEnterprise**)
 
 - ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, React, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB) and ***I LOVE BASKETBALL***🏀**
 
