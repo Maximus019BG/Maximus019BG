@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Azion
 
-- 🌱 I’m currently learning **CMake and C++**
+- 🌱 I’m currently learning **CMake** and **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG](https://github.com/Maximus019BG)
 
