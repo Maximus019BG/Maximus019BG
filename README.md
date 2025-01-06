@@ -12,15 +12,13 @@
 
 
 
-
-
 ###
 
-- 🔭 I’m currently working on Azion
+- 🔭 I’m currently working on **Azion Online**
 
 - 🌱 I’m currently learning **CMake** and **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG](https://github.com/Maximus019BG)
+- 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG/](https://github.com/Maximus019BG?tab=repositories&type=source)
 
 [//]: <> (- 🤝 I’m looking to begin with my project: **ProjectEnterprise**)
 
