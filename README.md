@@ -24,6 +24,7 @@
 
 - ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, React, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB) and ***I LOVE BASKETBALL***🏀**
 
+
 ## Connect with me  
 <div align="left">
 <a href="https://dev.to/maximus019bg" target="_blank">
