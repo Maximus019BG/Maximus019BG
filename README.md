@@ -55,7 +55,6 @@
 
 <h2 >Backend</h3>
 <p>
-  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="60"/>
   </a>
