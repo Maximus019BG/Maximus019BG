@@ -33,7 +33,6 @@
 
 <h2 >Frontend</h3>
 <p >
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/>
   </a>
