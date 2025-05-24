@@ -21,7 +21,7 @@
 
 <!-- [//]: <> (- 🤝 I’m looking to begin with my project: **School NET**) -->
 
-- ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL (MySQL), NoSQL (MongoDB) and ***I LOVE BASKETBALL***🏀**
+- ⚡ Fun fact about me **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL - MySQL; NoSQL - MongoDB and ***I LOVE BASKETBALL***🏀**
 
 
 ## Connect with me  
