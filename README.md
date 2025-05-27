@@ -73,8 +73,8 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=php" alt="php" width="60" height="60"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="60" height="60"/>
+   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
   </a>
   <a href="https://cmake.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cmake" alt="java" width="60" height="60"/>
@@ -91,6 +91,9 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="60"/>
+  </a>
+    <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="mysql" width="60" height="60"/>
   </a>
 </p>
 
