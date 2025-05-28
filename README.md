@@ -2,14 +2,13 @@
 
 # **Hi 👋, I am Max**
 
- My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**, currently studying to become an AI developer.
+My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**, currently studying to become an AI developer.
 
 <p align="center"> <img align="center" src="https://raw.githubusercontent.com/Maximus019BG/Maximus019BG/output/snake.svg" alt="Snake animation" /></p>
 
-
 ###
-<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=maximus019bg" alt="maximus019bg" /></a> </p>
 
+<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=maximus019bg" alt="maximus019bg" /></a> </p>
 
 ###
 
@@ -21,15 +20,15 @@
 
 <!-- [//]: <> (- 🤝 I’m looking to begin with my project: **School NET**) -->
 
-- ⚡ Fun facts about me: **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL - MySQL, PostgreSQL; NoSQL - MongoDB and ***I LOVE BASKETBALL***🏀**
+- ⚡ Fun facts about me: **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL - MySQL, PostgreSQL; NoSQL - MongoDB and \***I LOVE BASKETBALL**\*🏀**
 
+## Connect with me
 
-## Connect with me  
 <div align="left">
 <a href="https://dev.to/maximus019bg" target="_blank">
 <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto style="margin-bottom: 5px; " width="150" height="45"/>
 </a>
-</div>  
+</div>
 
 <h2 >Frontend</h3>
 <p >
@@ -97,21 +96,21 @@
   </a>
 </p>
 
-
-<h2 >Version Control</h3>
+<h2 >Tools</h3>
 <p >
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="git" width="60" height="60"/>
+  </a>
+      </a>
+    <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="mysql" width="60" height="60"/>
+  </a>
 </p>
-
-
 
   <p align="center"><img align="center" style="margin-left:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=gotham&hide_border=false" alt="maximus019bg" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximus019bg&show_icons=true&theme=gotham&hide_border=false&cache_seconds=1800&locale=en" alt="maximus019bg"/></p>
   <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus019bg&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=false" alt="maximus019bg" />
 
-
-
-
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" /> </p>
-
