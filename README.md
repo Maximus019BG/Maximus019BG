@@ -101,11 +101,10 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="git" width="60" height="60"/>
   </a>
-      </a>
-    <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" alt="mysql" width="60" height="60"/>
   </a>
 </p>
