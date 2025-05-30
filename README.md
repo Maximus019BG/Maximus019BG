@@ -58,7 +58,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="60"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60" height="60"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
@@ -92,7 +92,7 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="60"/>
   </a>
     <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="mysql" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="60" height="60"/>
   </a>
 </p>
 
@@ -105,7 +105,10 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://skillicons.dev/icons?i=docker" alt="git" width="60" height="60"/>
   </a>
   <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="mysql" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=vercel" alt="docker" width="60" height="60"/>
+  </a>
+  <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
+   <i class="bxl bx-drizzle-orm" alt="vercel" width="60" height="60">
   </a>
 </p>
 
