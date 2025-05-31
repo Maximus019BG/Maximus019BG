@@ -102,13 +102,13 @@ My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna]
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="git" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="60" height="60"/>
   </a>
   <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="docker" width="60" height="60"/>
+    <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="60" height="60"/>
   </a>
   <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
-   <i class="bxl bx-drizzle-orm" alt="vercel" width="60" height="60">
+      <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="drizzle-orm" style="border-radius: 12px;" width="60" height="60"/>
   </a>
 </p>
 
