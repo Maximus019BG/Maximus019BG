@@ -2,7 +2,7 @@
 
 # **Hi 👋, I am Max**
 
-My name is **Maxim R.** I'm a Full-Stack Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**, currently studying to become an AI developer.
+My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**, currently studying to become an AI developer.
 
 <p align="center"> <img align="center" src="https://raw.githubusercontent.com/Maximus019BG/Maximus019BG/output/snake.svg" alt="Snake animation" /></p>
 
