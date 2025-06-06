@@ -26,7 +26,12 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 
 <div align="left">
 <a href="https://dev.to/maximus019bg" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto style="margin-bottom: 5px; " width="150" height="45"/>
+<img src="https://skillicons.dev/icons?i=devto" alt=devto style="margin-bottom: 5px;" width="60"  height="60"/>
+</a>
+<a href="https://www.linkedin.com/in/maksim-ralev-536431334/">
+<img src="https://skillicons.dev/icons?i=linkedin" alt=devto style="margin-bottom: 5px;" width="60"  height="60"/>
+</a>
+
 </a>
 </div>
 
