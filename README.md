@@ -29,7 +29,7 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 <img src="https://skillicons.dev/icons?i=devto" alt=devto style="margin-bottom: 5px;" width="60"  height="60"/>
 </a>
 <a href="https://www.linkedin.com/in/maksim-ralev-536431334/">
-<img src="https://skillicons.dev/icons?i=linkedin" alt=devto style="margin-bottom: 5px;" width="60"  height="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin" alt=linkedin style="margin-bottom: 5px;" width="60"  height="60"/>
 </a>
 
 </a>
