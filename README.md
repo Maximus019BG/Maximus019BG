@@ -74,6 +74,9 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="python" width="60" height="60"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="60" height="60"/>
+  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=php" alt="php" width="60" height="60"/>
   </a>
