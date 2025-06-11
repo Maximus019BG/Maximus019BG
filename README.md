@@ -20,7 +20,7 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 
 <!-- [//]: <> (- 🤝 I’m looking to begin with my project: **Other**) -->
 
-- ⚡ Fun facts about me: **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL - MySQL, PostgreSQL; NoSQL - MongoDB and ***I LOVE BASKETBALL***🏀**
+- ⚡ Fun facts about me: **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL - MySQL, PostgreSQL; NoSQL - MongoDB and \***I LOVE BASKETBALL**\*🏀**
 
 ## Connect with me
 
@@ -120,7 +120,17 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
   </a>
 </p>
 
-  <p align="center"><img align="center" style="margin-left:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=gotham&hide_border=false" alt="maximus019bg" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximus019bg&show_icons=true&theme=gotham&hide_border=false&cache_seconds=1800&locale=en" alt="maximus019bg"/></p>
-  <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus019bg&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=false" alt="maximus019bg" />
+<div>
+  <p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=react&hide_border=true" alt="maximus019bg" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximus019bg&show_icons=true&theme=react&hide_border=true&cache_seconds=1800&locale=en" alt="maximus019bg"/>
+  </p>
 
+  <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus019bg&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="maximus019bg" />
+  </p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/wakatime?user=maximus019bg&theme=react&hide_border=true" alt="maximus019bg" /> 
+    </p>    
+    </div>
+    
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" /> </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
