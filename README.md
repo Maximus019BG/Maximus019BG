@@ -31,11 +31,12 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 <a href="https://www.linkedin.com/in/maksim-ralev-536431334/">
 <img src="https://skillicons.dev/icons?i=linkedin" alt=linkedin style="margin-bottom: 5px;" width="60"  height="60"/>
 </a>
-
+<a href="https://www.instagram.com/mxa._r/">
+<img src="https://skillicons.dev/icons?i=instagram" alt=ig style="margin-bottom: 5px;" width="60"  height="60"/>
 </a>
 </div>
 
-<h2 >Frontend</h3>
+<h2 >Frontend</h2>
 <p >
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/>
@@ -57,7 +58,7 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
   </a>
 </p>
 
-<h2 >Backend</h3>
+<h2 >Backend</h2>
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="60"/>
@@ -91,7 +92,7 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
   </a>
 </p>
 
-<h2 >Database</h3>
+<h2 >Database</h2>
 <p >
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="60" height="60"/>
@@ -104,7 +105,7 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
   </a>
 </p>
 
-<h2 >Tools</h3>
+<h2 >Tools</h2>
 <p >
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
@@ -120,6 +121,9 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
   </a>
 </p>
 
+<br/>
+
+## Stats
 <div>
   <center>
     <section style="display: flex; gap: 10px;">
