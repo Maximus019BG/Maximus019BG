@@ -121,20 +121,21 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 </p>
 
 <div>
-<center>
-<section style="display: flex; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=react&hide_border=true" alt="maximus019bg"/>
-
-  <img  src="https://github-readme-stats.vercel.app/api?username=maximus019bg&show_icons=true&theme=react&hide_border=true&cache_seconds=1800&locale=en" alt="maximus019bg"/>
-  </section>
-  </center>
   <center>
-  <section style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus019bg&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="maximus019bg" />
+    <section style="display: flex; gap: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximus019bg&theme=react&hide_border=true" alt="maximus019bg"/>
+      <img  src="https://github-readme-stats.vercel.app/api?username=maximus019bg&show_icons=true&theme=react&hide_border=true&cache_seconds=1800&locale=en" alt="maximus019bg"/>
+    </section>
+  </center>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/wakatime?user=maximus019bg&theme=react&hide_border=true" alt="maximus019bg" />
-  </section>
+  <center>
+    <section style="display: flex; gap: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus019bg&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="maximus019bg" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/wakatime?user=maximus019bg&theme=react&hide_border=true" alt="maximus019bg" />
+    </section>
   </center>
 </div>
     
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" /> </div>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=maximus019bg&label=Profile%20views&color=00d6d3&style=flat" alt="maximus019bg" />
+</div>
