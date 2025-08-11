@@ -11,11 +11,14 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 <p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=maximus019bg" alt="maximus019bg" /></a> </p>
 
 ###
+
 - 🔭 I’m currently working on **Azion Online** 
 
 - 🌱 I’m currently learning **CMake**, **C++** ...
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG/](https://github.com/Maximus019BG?tab=repositories&type=source)
+  
+  
 
 <!-- [//]: <> (- 🤝 I’m looking to begin with my project: **Other**) -->
 
