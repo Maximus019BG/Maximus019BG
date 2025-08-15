@@ -12,7 +12,7 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 
 - 🔭 I’m currently working on **Azion Online** 
 
-- 🌱 I’m currently learning **CMake**, **C++** ...
+- 🌱 I’m currently learning **CMake**, **C++** and **better-auth**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG/](https://github.com/Maximus019BG?tab=repositories&type=source)
   
