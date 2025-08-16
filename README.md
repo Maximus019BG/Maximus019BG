@@ -14,7 +14,7 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 
 - 🌱 I’m currently learning **CMake**, **C++** and **better-auth**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maximus019BG/](https://github.com/Maximus019BG?tab=repositories&type=source)
+- 👨‍💻 All of my projects are available [here](https://github.com/Maximus019BG?tab=repositories&type=source)
   
   
 <!-- [//]: <> (- 🤝 I’m looking to begin with my project: **Other**) -->
