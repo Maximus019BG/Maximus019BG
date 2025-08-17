@@ -15,9 +15,6 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 - 🌱 I’m currently learning **CMake**, **C++** and **better-auth**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Maximus019BG?tab=repositories&type=source)
-  
-  
-<!-- [//]: <> (- 🤝 I’m looking to begin with my project: **Other**) -->
 
 - ⚡ Fun facts about me: **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL - MySQL, PostgreSQL; NoSQL - MongoDB and \***I LOVE BASKETBALL**\*🏀**
 
