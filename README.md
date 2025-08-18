@@ -16,7 +16,8 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Maximus019BG?tab=repositories&type=source)
 
-- ⚡ Fun facts about me: **Full-stack developer with experience in building web applications using: Front-end: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) Back-end: Python (Django, Flask), PHP, Java (SpringBoot) Databases: SQL - MySQL, PostgreSQL; NoSQL - MongoDB and \***I LOVE BASKETBALL**\*🏀**
+- ⚡ Fun facts about me: **Full-stack developer** with experience in building web applications using: **Front-end**: HTML, CSS (Tailwind), JavaScript (TypeScript, Nextjs) **Back-end**: Python (Django, Flask), PHP, Java (SpringBoot), JavaScript (TypeScript, Nextjs) **Databases**: SQL - MySQL, PostgreSQL; NoSQL - MongoDB;
+**Hardware**: ESP32 and Arduino... and **I LOVE BASKETBALL**🏀
 
 ## Connect with me
 
