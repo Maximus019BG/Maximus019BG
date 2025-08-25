@@ -19,7 +19,6 @@ My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-
 **Hardware**: ESP32 and Arduino... and **I LOVE BASKETBALL**🏀
 
 ## Connect with me
-
 <div align="left">
 <a href="https://dev.to/maximus019bg" target="_blank">
 <img src="https://skillicons.dev/icons?i=devto" alt=devto style="margin-bottom: 5px;" width="60"  height="60"/>
