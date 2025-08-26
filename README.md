@@ -1,6 +1,6 @@
 ![Header](.github/github-header-image.png)
 
-# **Hi 👋, I am Max**
+# **I am Max**
 
 My name is **Maksim** I'm a Full-Stack Backend Developer and student at **[ITPG-Varna](https://itpg-varna.bg)**, currently studying to become an AI developer.
 
